@@ -1,6 +1,6 @@
 # Client-Server Exercise with Node.js
 
-In this exercise you will practice a creation of a web service that respond with the block hash.
+creation of a web service that respond with the block hash.
 
 ## Steps to follow
 
